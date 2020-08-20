@@ -11,7 +11,7 @@ provider:
   runtime: python3.6
   stage: dev
   versionFunctions: false
-  region: eu-west-1
+  region: eu-central-1
   timeout: 30
   memorySize: 128
   
